@@ -8,7 +8,7 @@ Facciamo un meetup online ogni settimana parlando, discutendo e condividendo que
 
 Per interagire con noi e con la community, proporre i tuoi dubbi, le tue perplessità o le tuoi idee [puoi trovarci qui](https://info.pythonbiellagroup.it)
 
-Puoi trovare il nostro sito con tutte le informazioni aggiornate [qui](https://dev.pythonbiellagroup.it)
+Puoi trovare il nostro sito con tutte le informazioni aggiornate [qui](https://pythonbiellagroup.it/)
 
 <hr>
 
